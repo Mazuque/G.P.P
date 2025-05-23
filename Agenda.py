@@ -48,3 +48,5 @@ def menu():
 # Executa o menu
 if __name__ == "__main__":
     menu()
+
+print("alterado")
